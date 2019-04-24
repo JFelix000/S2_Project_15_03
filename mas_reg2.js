@@ -7,8 +7,8 @@
 
    Filename: mas_reg2.js
 
-   Author:  
-   Date:    
+   Author:  Jose Felix
+   Date:    4.23.19
 
 
    Function List
